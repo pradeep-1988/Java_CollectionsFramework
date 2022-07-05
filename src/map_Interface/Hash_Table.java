@@ -2,7 +2,7 @@ package map_Interface;
 
 import java.util.Hashtable;
 
-public class HashTable {
+public class Hash_Table {
 	
 	/*
 	 * 2. HashTable (class)
